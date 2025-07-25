@@ -3,11 +3,12 @@
 @media screen and (min-width: 769px) and (max-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, #5C1313, #A23B50);
+        background-image: linear-gradient(to top, rgb(14, 0, 0), #5C1313, #A23B50);
     }
 
     section#login {
         width: 80vw;
+        height: 320px;
     }
 
     section#login > div#imagem {
@@ -33,11 +34,12 @@
 @media screen and (min-width: 992px) {
 
      body {
-        background-image: linear-gradient(to top, #5C1313, #A23B50);
+        background-image: linear-gradient(to top, rgb(14, 0, 0), #5C1313, #A23B50);
     }
 
     section#login {
         width: 950px;
+        height: 320px;
     }
 
     section#login > div#imagem {
